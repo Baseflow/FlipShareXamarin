@@ -1,11 +1,11 @@
-# EllipsizeTextViewXamarin
-The EllipsizeTextView extends TextView, support omit (Ellipsize/Ellipsis) redundant characters in multiple lines situtation.
+# FlipShareXamarin
+It's a flip way to show share widget.
 
-Xamarin bindings library for EllipsizeTextView [library](https://github.com/dinuscxj/EllipsizeTextView).
+Xamarin bindings library for FlipShare [library](https://github.com/JeasonWong/FlipShare).
 
-Plugin is available on [Nuget](https://www.nuget.org/packages/Xam.Plugins.Android.EllipsizeTextView/).
+Plugin is available on [Nuget](https://www.nuget.org/packages/Xam.Plugins.Android.FlipShare/).
 
 #### Preview
-![](https://raw.githubusercontent.com/dinuscxj/EllipsizeTextView/master/Preview/EllipsizeTextView.gif?width=300)
+![Markdown](https://raw.githubusercontent.com/jeasonwong/FlipShare/master/screenshots/flipshare.gif)
 
 See the sample for implementation.
