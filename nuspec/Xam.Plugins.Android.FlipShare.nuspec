@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>Xam.Plugins.Android.FlipShare</id>
+        <version>1.0.1</version>
+        <title>FlipShare for Xamarin.Android</title>
+        <authors>Martijn van Dijk</authors>
+        <owners>Martijn van Dijk</owners>
+        <licenseUrl>https://github.com/martijn00/FlipShareXamarin/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/martijn00/FlipShareXamarin</projectUrl>
+        <iconUrl>https://raw.githubusercontent.com/martijn00/FlipShareXamarin/master/icon_flipshare.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>It's a flip way to show share widget for Xamarin Android</description>
+        <summary>FlipShare for Xamarin.Android</summary>
+        <tags>xamarin, monodroid, C#, xamarin.android, android, FlipShare, share, social</tags>
+        <dependencies>
+            <group targetFramework="MonoAndroid0.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\FlipShare\bin\Release\FlipShare.dll" target="lib\MonoAndroid\FlipShare.dll" />
+    </files>
+</package>
